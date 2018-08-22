@@ -3959,10 +3959,10 @@
     "1534942245196": {
       "events": {},
       "links": {
-        "MerkleUtils": "0xee9ea0b93a4019ef0b90668fba5b8207f26ef1c9"
+        "MerkleUtils": "0x3fa1417a79e1200929f3b583765ad208098bb82a"
       }
     }
   },
   "schemaVersion": "2.0.0",
-  "updatedAt": "2018-08-22T12:55:26.783Z"
+  "updatedAt": "2018-08-22T13:01:37.742Z"
 }
